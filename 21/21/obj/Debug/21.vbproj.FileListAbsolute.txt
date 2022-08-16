@@ -1,0 +1,13 @@
+C:\Users\YEFERSON\source\repos\21\21\obj\Debug\21.vbproj.AssemblyReference.cache
+C:\Users\YEFERSON\source\repos\21\21\obj\Debug\21.vbproj.SuggestedBindingRedirects.cache
+C:\Users\YEFERSON\source\repos\21\21\obj\Debug\_21.Form1.resources
+C:\Users\YEFERSON\source\repos\21\21\obj\Debug\_21.Resources.resources
+C:\Users\YEFERSON\source\repos\21\21\obj\Debug\21.vbproj.GenerateResource.cache
+C:\Users\YEFERSON\source\repos\21\21\obj\Debug\21.vbproj.CoreCompileInputs.cache
+C:\Users\YEFERSON\source\repos\21\21\bin\Debug\21.exe.config
+C:\Users\YEFERSON\source\repos\21\21\bin\Debug\21.exe
+C:\Users\YEFERSON\source\repos\21\21\bin\Debug\21.pdb
+C:\Users\YEFERSON\source\repos\21\21\bin\Debug\21.xml
+C:\Users\YEFERSON\source\repos\21\21\obj\Debug\21.exe
+C:\Users\YEFERSON\source\repos\21\21\obj\Debug\21.xml
+C:\Users\YEFERSON\source\repos\21\21\obj\Debug\21.pdb

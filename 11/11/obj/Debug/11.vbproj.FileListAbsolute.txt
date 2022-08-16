@@ -1,0 +1,12 @@
+C:\Users\YEFERSON\source\repos\11\11\bin\Debug\11.exe.config
+C:\Users\YEFERSON\source\repos\11\11\bin\Debug\11.exe
+C:\Users\YEFERSON\source\repos\11\11\bin\Debug\11.pdb
+C:\Users\YEFERSON\source\repos\11\11\bin\Debug\11.xml
+C:\Users\YEFERSON\source\repos\11\11\obj\Debug\11.vbproj.AssemblyReference.cache
+C:\Users\YEFERSON\source\repos\11\11\obj\Debug\11.vbproj.SuggestedBindingRedirects.cache
+C:\Users\YEFERSON\source\repos\11\11\obj\Debug\_11.Resources.resources
+C:\Users\YEFERSON\source\repos\11\11\obj\Debug\11.vbproj.GenerateResource.cache
+C:\Users\YEFERSON\source\repos\11\11\obj\Debug\11.vbproj.CoreCompileInputs.cache
+C:\Users\YEFERSON\source\repos\11\11\obj\Debug\11.exe
+C:\Users\YEFERSON\source\repos\11\11\obj\Debug\11.xml
+C:\Users\YEFERSON\source\repos\11\11\obj\Debug\11.pdb

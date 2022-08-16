@@ -1,0 +1,8 @@
+C:\Users\YEFERSON\source\repos\1ob\1ob\bin\Debug\1ob.exe.config
+C:\Users\YEFERSON\source\repos\1ob\1ob\bin\Debug\1ob.exe
+C:\Users\YEFERSON\source\repos\1ob\1ob\bin\Debug\1ob.pdb
+C:\Users\YEFERSON\source\repos\1ob\1ob\obj\Debug\1ob.csproj.AssemblyReference.cache
+C:\Users\YEFERSON\source\repos\1ob\1ob\obj\Debug\1ob.csproj.SuggestedBindingRedirects.cache
+C:\Users\YEFERSON\source\repos\1ob\1ob\obj\Debug\1ob.csproj.CoreCompileInputs.cache
+C:\Users\YEFERSON\source\repos\1ob\1ob\obj\Debug\1ob.exe
+C:\Users\YEFERSON\source\repos\1ob\1ob\obj\Debug\1ob.pdb

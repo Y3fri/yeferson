@@ -1,0 +1,13 @@
+C:\Users\YEFERSON\source\repos\23\23\bin\Debug\23.exe.config
+C:\Users\YEFERSON\source\repos\23\23\bin\Debug\23.exe
+C:\Users\YEFERSON\source\repos\23\23\bin\Debug\23.pdb
+C:\Users\YEFERSON\source\repos\23\23\bin\Debug\23.xml
+C:\Users\YEFERSON\source\repos\23\23\obj\Debug\23.vbproj.AssemblyReference.cache
+C:\Users\YEFERSON\source\repos\23\23\obj\Debug\23.vbproj.SuggestedBindingRedirects.cache
+C:\Users\YEFERSON\source\repos\23\23\obj\Debug\_23.Form1.resources
+C:\Users\YEFERSON\source\repos\23\23\obj\Debug\_23.Resources.resources
+C:\Users\YEFERSON\source\repos\23\23\obj\Debug\23.vbproj.GenerateResource.cache
+C:\Users\YEFERSON\source\repos\23\23\obj\Debug\23.vbproj.CoreCompileInputs.cache
+C:\Users\YEFERSON\source\repos\23\23\obj\Debug\23.exe
+C:\Users\YEFERSON\source\repos\23\23\obj\Debug\23.xml
+C:\Users\YEFERSON\source\repos\23\23\obj\Debug\23.pdb

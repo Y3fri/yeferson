@@ -1,0 +1,8 @@
+C:\Users\YEFERSON\source\repos\14\14\bin\Debug\14.exe.config
+C:\Users\YEFERSON\source\repos\14\14\bin\Debug\14.exe
+C:\Users\YEFERSON\source\repos\14\14\bin\Debug\14.pdb
+C:\Users\YEFERSON\source\repos\14\14\obj\Debug\14.csproj.AssemblyReference.cache
+C:\Users\YEFERSON\source\repos\14\14\obj\Debug\14.csproj.SuggestedBindingRedirects.cache
+C:\Users\YEFERSON\source\repos\14\14\obj\Debug\14.csproj.CoreCompileInputs.cache
+C:\Users\YEFERSON\source\repos\14\14\obj\Debug\14.exe
+C:\Users\YEFERSON\source\repos\14\14\obj\Debug\14.pdb
